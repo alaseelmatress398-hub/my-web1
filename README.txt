@@ -12,3 +12,4 @@
 2) ارفع المجلد كاملاً إلى public_html.
 3) أضف الموقع إلى Google Search Console و Bing Webmaster Tools.
 4) اربط الموقع بملف Google Business Profile واطلب تقييمات حقيقية من العملاء.
+  aiملاحظة الصيغة تمت صياغاتها لمن سيقوم بالعمل بعدي من قبل ال
